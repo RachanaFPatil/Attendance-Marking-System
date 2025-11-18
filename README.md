@@ -51,10 +51,3 @@ Use the following test credentials to log in:
   - Password: student123
   - **Note:** Student names are **predefined inside the server code (hardcoded)**.
  
-## How the website looks
-### 1. Home Page
-![Home Page](./Outputs/student-login.png)
-### 2. Teacher Dashboard
-![Teacher Dashboard](./Outputs/functions.png)
-### 3. Attendance Log
-![Attendance Log](./Outputs/attendance-log.png)
