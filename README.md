@@ -2,6 +2,7 @@
 
 A simple web-based **Attendance Management System** built using **Node.js, Express, EJS, and SQLite**.  
 It is created to make attendance hassle-free. Students can submit their attendance digitally, and teachers can track logs in real time to catch duplicate or repeated entries.
+
 ---
 
 ## ⭐ Features
@@ -39,4 +40,4 @@ Use the following test credentials to log in:
 - Student Login
   - Username: student name
   - Password: student123
-  - - **Note:** Student names are **predefined inside the server code (hardcoded)**.
+  - **Note:** Student names are **predefined inside the server code (hardcoded)**.
