@@ -20,7 +20,16 @@ It is created to make attendance hassle-free. Students can submit their attendan
 **Database:** SQLite (`attendance.db`)
 
 ---
+## Project Structure
+```
+attendance/
+│
+├── attendance.db      # SQLite database file
+├── server.js          # Backend server file
+└── package.json       # Project metadata + dependencies
+```
 
+---
 ## How to Run the Project
 
 ### Install Dependencies
